@@ -1,0 +1,263 @@
+<resources>
+    <string name="app_name">Stories</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">compan</string>
+    <string name="title_notifications">feedback</string>
+
+
+    <!-- Category name for the vocabulary words for story one[CHAR LIMIT=20] -->
+    <string name="category_story_one">Lost and found</string>
+    <!-- Category name for the vocabulary words for story two [CHAR LIMIT=20] -->
+    <string name="category_story_two">Back to school</string>
+    <!-- Category name for the vocabulary words for story three [CHAR LIMIT=20] -->
+    <string name="category_story_three">Stranger in the night </string>
+    <!-- Category name for the vocabulary words for story four [CHAR LIMIT=20] -->
+    <string name="category_story_four"> Robber and police</string>
+    <!-- Category name for the vocabulary words for story five [CHAR LIMIT=20] -->
+    <string name="category_story_five">A trip to heaven</string>
+    <!-- Category name for the vocabulary words for story six[CHAR LIMIT=20] -->
+    <string name="category_story_six">The Stone Cutter</string>
+    <!-- Category name for the vocabulary words for story seven [CHAR LIMIT=20] -->
+    <string name="category_story_seven">Money Can’t Buy Everything</string>
+    <!-- Category name for the vocabulary words for story eight [CHAR LIMIT=20] -->
+    <string name="category_story_eight">The Struggles of Our Life</string>
+    <!-- Category name for the vocabulary words for story nine [CHAR LIMIT=20] -->
+    <string name="category_story_nine">An Old Man Lived in the Village</string>
+    <!-- Category name for the vocabulary words for story five [CHAR LIMIT=20] -->
+    <string name="category_story_ten"> Value yourself</string>
+
+
+    <!-- title menu name -->
+    <string name="category_companmenu">compan</string>
+    <string name="feedbackmenu">Feedback</string>
+    <string name="category_story_onemenu">Story - 1 </string>
+    <string name="category_twomenu">Story - 2</string>
+    <string name="category_threemenu">Story - 3</string>
+    <string name="category_fourmenu">Story - 4</string>
+    <string name="category_fivemenu">Story - 5</string>
+    <string name="category_sixmenu">Story - 6</string>
+    <string name="category_sevenmenu">Story - 7</string>
+    <string name="category_eightmenu">Story - 8</string>
+    <string name="category_ninemenu">Story - 9</string>
+    <string name="category_tenmenu">Story - 10</string>
+
+
+    <!-- the description of all stories -->
+
+
+    <!-- story one  -->
+    <string name="one_description_1">Ten pundits (holy men) went to the Ganga to take a dip in the river.
+        They held each other’s hands as they took dips thrice. When they came up the third time, they were not holding hands.
+        “Let’s make sure all of us have come out of the river safely,” said a pundit, “Everybody stand in line. I will count.”
+        The other holy men liked the idea and lined up as the pundit took count, “1, 2, 3, 4, 5, 6, 7, 8, 9…” He stopped at 9 as the line came to an end.
+        “Nine, only nine,” screamed one of the pundits. “Oh no, one of us has drowned in the river,” cried out another.
+        “You move aside. Let me take the count. Everybody, stand in a line,” said the second pundit. He began counting.
+        He too could count only 9 people. All the pundits started crying for their lost friend.
+    </string>
+    <string name="one_description_2">A cap seller was watching the entire drama. He noticed that the man who did the counting had left himself out of the count.
+        He offered to do the counting. But the holy men refused to take his help. “We are well read in scriptures. You are uneducated. We don’t trust your ability to count,”
+        they said. “Alright, I leave the counting to you. But do one thing. Here, put on these caps, first.” It was getting hot. So, all the pundits put on the caps given to them.
+        The cap seller asked them to remove their caps and keep them on the ground. The holy men placed the caps on the ground. “Now count the caps you had worn,” said the cap seller.
+        All of them counted together, “1, 2, 3, 4, 5, 6, 7, 8, 9, 10.” “We wore these caps. The caps we wore we have been counted.
+        There are ten caps. This means we are ten,” the first pundit said. All nodded their heads in agreement. “Let’s buy these magic caps,” said another pundit.
+        The cap seller charged them one rupee for each cap, and walked away happily with ten coins jingling in his pocket
+    </string>
+
+
+    <!-- story two -->
+    <string name="two_description_1">I am a primary school teacher. Do you know that even teachers attend classes from time to time?
+        We become students and learn from senior teachers! In one such class, I met a senior teacher, Mrs. Sasikala. She was a kind person and was a good teacher.
+        She was part of the Municipal Department that looked after education. Her job was to ensure that every kid in her locality would attend school.
+        She was our favourite teacher in the training sessions. That’s why we were disappointed when she didn’t come to take our class for a couple of days.
+        Then, much to our relief, she started taking our class again. She explained her absence — she told us she had gone in search of her missing students.
+        “What missing students?” we all asked. Mrs. Sasikala then told us what she had been doing for the last two days. “We try our very best to get all children to attend school.
+        These children come from poor backgrounds. When a child is absent for more than three to four days, I visit their place to see what’s the problem,” said Mrs. Sasikala.
+    </string>
+    <string name="two_description_2">“This time two children stopped coming to my school. They were children of construction workers. I visited the
+        construction site and learnt that some of the workers had moved to another construction site far away. The supervisor told me where to find them. So, I
+        took a bus to that construction site far away. I found the parents of my missing students. “I was shocked to see my students working at the construction site, carrying
+        bricks on their heads. I asked the parents why they had stopped sending their children to school.” “Madam, we go where our work takes us. If we don’t work, we won’t have
+        enough money to buy food. Now that we work here, how can we send the children to a school that is so far away?” the mother said. “I told them I could find a school
+        nearby. The next day, I took the children to the nearest Municipal School and got them admission there. Now the children are back in school,” Mrs. Sasikala finished her
+        story with a smile. We were all relieved to hear that those children were back in school. We felt very proud of our teacher who took so much trouble to get those children
+        back to school. Soon, the training session was completed. I went back to my school. On my return, I found one of my students had stopped attending school. She came from a
+        slum across the railway track. That evening I found myself crossing the railway track, on my way to the slum, in search of my missing student.
+    </string>
+
+
+    <!-- story three-->
+    <string name="three_description_1">A stranger was on a pilgrimage to Kashi. One evening, he restein a village. The villagers were kind and helpful. They offered him food to eat
+        and a place to stay. As he got ready to leave the next morning, his host had a word with him, “As you go north, there is a village called Jhootagav — the village of lies. Avoid
+        this village. You will not find a single kind soul there. The villagers lie, quarrel, and cheat each other. Truth has fled from that place. ”The pilgrim thanked his host and
+        left. It was noon when he reached a village, where he rested under a tree. He did not know he was in Jhootagav. A group of men decided to play a prank on the visitor. They
+        lighted a candle in broad daylight and started walking towards him. “What are you doing here in the middle of the night?” they asked. The pilgrim looked up — the sun was shining
+        bright. He looked at the candle they were holding. “You seem to be a traveller. Would you like to carry this candle with you?” asked one of the men. “You have to pay for it. We
+        will accept your gold chain,” said the other helpfully. The third one forcefully snatched the chain as the first man thrust the lighted candle in his hand. The pilgrim looked
+        at the lighted candle in his hand. “Alas, there is so much darkness here,” he said. The next moment, the tricksters were in a shock. It turned pitch dark. They could hardly see
+        each other. The only thing they could see was the candle light, which was moving away from them.
+    </string>
+    <string name="three_description_2">From that day onwards, the village did not see a sunrise. Candles could not be lit. Jhootgav now became Andhergav, the village of
+        darkness. With no sunlight, no work could be done. No crops could be grown. Other villages shunned the villagers of Andhergav. No one ever entered or left Andhergav. Months
+        passed, or may be days — who could tell without the sun? One day a child started crying. She was convinced it was Diwali. She wanted to light lamps. But no one could light
+        anything in the village. At that moment, the villagers saw a light flickering at a distance. It got brighter. It seemed to be moving closer. Then they saw a man holding a
+        candle in his hand. He was the same pilgrim who had passed through that village. Attracted by the candle in his hand, a little girl came running to him, “It is light. You
+        are holding light, uncle.” By then all the villagers had gathered. They watched as the pilgrim handed the candle to the child. “Let there be light in the heart, child,” he said
+        softly. The elders hung their heads in shame. The three men who had tricked the pilgrim fell at his feet begging for forgiveness. The child broke into smile as she
+        shouted, “Light! Light at last!” Then there was dazzling light. The whole village was lit by the blazing sun. Villagers sank to ground, raising their hands in salutation
+        to the sun. “Darkness gone. Light is here,” whispered an old woman. The pilgrim meanwhile had disappeared. But Diwali had come to that village, which is now called
+        Divagaon, the village of lamps.
+    </string>
+
+
+    <!-- story four-->
+    <string name="four_description_1">In ancient Talakad, there was a school to train the local police force. Students came from many kingdoms, far and
+        near. “It is important to understand the mind of a thief. Once you understand how a thief thinks, it is easy to catch him,” Guru Dandapani would
+        say. “You must become a thief to catch a thief,” he would add. One of his students, Kushala, took these words seriously. He became an expert in
+        the art of catching thieves by becoming a thief, mentally. The Guru was pleased with him.  “Is there anything more I have to master, Gurudev?” asked
+        Kushala.  “You still have something more to learn. Only Kala Yama, the Kotwal of Mysuru, can teach you that,” said Guru Dandapani. Kushala decided to
+        leave for Mysuru the very next day. “Remember, Kala Yama will not teach you if you simply ask him to teach,” said the guru. “Steal something from his
+        home and hide it somewhere. Then watch how the Master thief-catcher goes about finding the treasure you hide.” Kushala reached Mysuru in the evening. He
+        went straight to Kala Yama’s house. He was received with honour due to a guest. The host invited him to have dinner with him and stay for the night. He
+        was served food on a large golden plate. Kushala expressed his admiration for the golden plate. “If I had two of them, I would have gifted one to
+        you,” said his host. “With my meager earnings, I could manage to have only one such plate, which I use for special guests, like you.” Kala Yama then
+        asked his young guest how far he had progressed in his studies. “I want to be a great thief catcher like you, Sir,” said Kushala. Kala Yama laughed. “Let
+        me see whether you are a good thief first,” he said as he got up to wash hands. Kushala was determined to show his host how good he was.
+    </string>
+    <string name="four_description_2"> He decided to steal the golden plate in which he was served dinner. In the dead of night, when everyone was asleep, Kushala
+        got up and started looking for the golden plate. He looked for it in the kitchen, then in all the rooms, one by one. Nowhere could he see the plate. Finally, he
+        entered Kala Yama’s bedroom. He found his host snoring away. Hanging above him was the golden plate he was looking for. He could easily reach for the
+        plate, but there was a catch. The plate was filled with water to the brim. If he removed the plate, water would spill on Kala Yama, who would then wake
+        up. He had to remove the plate without waking up the host. Kushala smiled. He liked challenges. He thought of a plan. In no time the plate was in his
+        hand. Now, he had to hide it in a place where it could not be found by Kala Yama, the Master thief-catcher. Again, Kushala thought of a plan. He hid
+        the plate in a safe place, and went back to his room to sleep. In the morning, Kushala got up, and had his bath. His host greeted him with a smile and
+        invited him to have breakfast. When the breakfast was served, Kushala turned pale. He was served in the same golden plate! “You said you have only one
+        golden plate …” he blurted. “Yes, only one. But why do you ask?” Kushala gave some excuse, finished the breakfast in a hurry. As he prepared to leave, his
+        host escorted him to the door. Kushala stopped “Don’t you offer a gift to your guests?” he asked. “Oh, yes. What would you like to have?” asked Kala Yama.
+    </string>
+    <string name="four_description_3"> Don’t ask for my golden plate, he said as he broke into laughter. “No. You can keep it yourself. Only tell me, how did you
+        trace it?” “How did I trace it? You mean it was stolen?” Kushala simply nodded his head. “All right. I’ll tell you, if you first tell me how you stole
+        it,” said Kala Yama. “No thief had ever stolen a thing from my home. You are the first one.” Kushala started his side of the story, “When I found the
+        plate was filled with water to its brim, I knew I could not touch it without spilling it. So, first I had to get rid of the water.” Kala Yama waited
+        patiently. “So, I drank up the water,” said Kushala with a triumphant look. “How?” asked Kala yama. “I went out of the house and found a bamboo
+        straw. Using the straw, I sucked up all the water,” Kushala said. “The rest was easy. I removed the plate and hid it in a safe place. I mean what
+        I then thought was a safe place,” Kushala said. “Now tell me how did you find out the hiding place,” asked Kushala.  Kala Yama smiled. “I woke up early
+        in the morning and was quite shocked to see only ropes dangling above. The plate gone,” he said. “I immediately knew it was your work. But where was the
+        proof? I had to find the stolen plate.” “How?” asked Kuhala eagerly. “I came to your room where you were sleeping peacefully. I noticed your feet were
+        somewhat wet. I sat next to you and examined you closely. I could see you were wet right up to your waist. I knew in a flash where you had hidden the
+        plate. I went straight to the lake close to our home and started wading into the water. I kept wading in the water till it came to my waist. I walked a
+        little further, as I’m slightly shorter than you. Then I dipped into the water. And there it was — the golden plate. I brought it back home.” “Thank
+        you,” said Kushala, “I’ve learnt from you, how to ‘read’ a thief.” “So have I, from you,” said Kala Yama. “Now tell me what is your plan? To become a
+        Mahachor — a great thief?” asked Kala Yama. “No. I want to be a great thief catcher, like you,” said Kushala, as he took leave of his host.
+    </string>
+
+
+    <!-- story five-->
+    <string name="five_description_1">one morning, a farmer found that some animal had broken into his farm in the night and had eaten some of the sugar canes
+        he was growing. He decided to keep a watch. In the middle of the night, he went to his farm to make sure no animal had invaded the farm. To his
+        surprise, he saw a white elephant busy eating the sugar canes. He ran after the elephant shouting. The elephant tried to flee. The farmer caught
+        it by its tail. To his horror, he found the elephant rising off the ground. The jumbo was flying! The frightened farmer held on the tail of the
+        flying elephant. The elephant landed in a garden above the clouds. The farmer recalled his grandmother talking about heaven. “This must be
+        heaven,” he thought. He was delighted to see beautiful trees laden with juicy fruits. He started eating the fruits. He put some fruits in his
+        pocket. He wanted to share them with his friends back on earth. When the elephant flew again, the farmer held its tail. The elephant flew down
+        heading for the sugarcane farm. After they landed on earth, the farmer ran home. The farmer’s friends would not believe his tale. He offered them
+        juicy mangoes that he had plucked from the heavenly trees. The fruits were so sweet that all his friends agreed that they tasted heavenly. They
+        wanted to know when he was going to heaven again. The farmer said he was planning a visit that night. His friends begged him to take them with
+        him. The farmer agreed. “Yes, let’s all go to heaven and celebrate there,” he said. The friends decided they would meet in the sugarcane farm
+        atmidnight.
+    </string>
+    <string name="five_description_2">That night as the farmer and his friends waited in the farm, they saw the white elephant descending from the
+        sky. They waited patiently till the elephant had its share of sugarcanes. As the elephant was ready to take off, the farmer ran and held its
+        tail. As the elephant rose, one of the friends ran and caught hold of the farmer’s legs. As the elephant rose higher, another man ran and held
+        on to the legs of the man holding the legs of the farmer. Thus, the human chain grew, as every man held on to the legs of the other above him. As the
+        elephant flew the friends started talking. One of them wanted to know whether there were water melons in the heavenly garden. “Of course, there are water
+        melons,” said the farmer. “They are so huge!” he said. “How big?” the friend asked. “This big,” said the farmer, demonstrating with his hands. As he
+        opened his hands to show how big the heavenly water melons were, the farmer and his friends fell. Luckily, they fell into a stream on good old earth. The
+        heavenly elephant never returned to the sugarcane farm although the farmer and his friends waited for his return.
+    </string>
+
+
+    <!-- story six-->
+    <string name="six_description_1">Once upon a time there lived a stone cutter ,in a small village. All day long he worked hard, cutting the hard stones and
+        making the shape which were needed by his customers. His hands were hard and his clothes were dirty. One day he went out to work on a big stone. It was
+        very hard to work and the sun was very hot. After spending several hours cutting the stone, he sat down in the shade and soon fell asleep.
+        After sometime, he heard sound of somebody coming. Walking up he saw a long procession of people. There were many soldiers and attendants and in the middle, in a palanquin, carried by strong people at the king .
+        How wonderful it must be to be the great king thought the stone cutter . How happy I would be if i were the king instead of a poor stone cutter.
+        As he said these words, a strange thing happened. The stone cutter found himself dressed in silk clothes and shining jewels. His hands were soft and
+        he was sitting in a comfortable palanquin. He looked through the curtains and thought, How easy it is to be a king, these people are here to serve me.
+        The procession moved on and the sun grew hot. The stone cutter ,now the king ,became too warm for comfort. He asked the procession to stop so that he
+        could rest for some time . At once the chief of the soldiers bent before the king and said Your Majesty, only this morning you swore to have me hanged
+        to death if we did not reach the palace before the sun set. The stone cutter felt sorry for him and ordered the procession to go on its way again.
+        As the afternoon wore on, the sun grew hotter, and the king became more and more uncomfortable. I am powerful, it is true, but how more powerful the
+        sun is, he thought I would rather be the sun than a king .
+    </string>
+    <string name="six_description_2">At once, he became the sun ,shining down on the earth. His new power was hard to control. He shone too strongly, he
+        burned up the fields with his rays and turned the ocean into vapour and formed a great cloud which covered the land. But no matter how hard he shone, he
+        could not see through the clouds. It is obvious that the clouds are even stronger and more powerful than sun said the stone cutter, now the sun, I would
+        rather be a cloud. Suddenly he found himself turned into a huge dark cloud. He started using his new power. He poured rain down on the fields and caused
+        floods. All the trees and houses were swept away but a boulder, which once he had been cutting when he was a stone cutter was unmoved and unchanged.
+        However much he poured down on the stone it did not move. Why that rock is more powerful than I am said the stone cutter now a cloud. Only a stone cutter
+        could change the rock by his skill. How I wish I were a stonecutter. No sooner he said the words that he found himself sitting on a stone with hard and
+        rough hands. He picked up his tools and set to work on a boulder, happily.
+    </string>
+
+
+    <!-- story seven-->
+    <string name="seven_description_1">Nick was a 10 year old boy. He was the only son to his parents. Nick’s father was a very busy businessman who could not
+        spend time with his son. He came home after Nick slept, and was off to office before Nick woke up in the morning. Nick yearned for his father’s
+        attention. He wanted to go outdoors and play with his father just like his friends did. One day, Nick was surprised to see his father at home in the
+        evening. “Dad, it is a big surprise to see you at home,” Nick said. “Yes son, my meeting was cancelled. So I’m at home. But after two hours I have to
+        catch a flight,” his father replied. “When will you be back?” “Tomorrow noon.”mNick was in deep thought for a while. Then he asked, “Dad, how much do
+        you earn in a year?” Nick’s father was taken aback. He said, “My dear son, it’s a very big amount and you won’t be able to understand it.” “Ok dad, are
+        you happy with the amount you earn?”
+    </string>
+    <string name="seven_description_2">“Yes my dear. I’m very happy, and in fact I’m planning to launch our new branch and a new business in a few months. Isn’t
+        that great?” “Yes, dad. I’m happy to hear that. Can I ask you one more question?” “Yes, dear.” “Dad, can you tell me how much you earn in a day or even
+        half a day?” “Nick, why are you asking this question?” Nick’s father was perplexed. But Nick was persistent. “Please answer me. Can you please tell me how
+        much you earn in an hour?” Nick’s father gave in and replied, “It will be around $ 25/- per hour.” Nick ran to his room upstairs, and came down with his
+        piggy bank that contained his savings. “Dad, I have $50 in my piggy bank. Can you spare two hours for me? I want to go to the beach and have dinner with
+        you tomorrow evening. Can you please mark this in your schedule?” Nick’s father was speechless!
+    </string>
+
+
+    <!-- story eight-->
+    <string name="eight_description_1">Once upon a time a daughter complained to her father that her life was miserable and that she didn’t know how she was
+        going to make it. She was tired of fighting and struggling all the time. It seemed just as one problem was solved, another one soon followed. Her
+        father, a chef, took her to the kitchen. He filled three pots with water and placed each on a high fire. Once the three pots began to boil, he placed
+        potatoes in one pot, eggs in the second pot and ground coffee beans in the third pot. He then let them sit and boil, without saying a word to his daughter.
+        The daughter, moaned and impatiently waited, wondering what he was doing. After twenty minutes he turned off the burners. He took the potatoes out of the
+        pot and placed them in a bowl. He pulled the eggs out and placed them in a bowl. He then ladled the coffee out and placed it in a cup.
+    </string>
+    <string name="eight_description_2">Turning to her, he asked. “Daughter, what do you see?” “Potatoes, eggs and coffee,” she hastily replied. “Look closer” he
+        said, “and touch the potatoes.” She did and noted that they were soft. He then asked her to take an egg and break it. After pulling off the shell, she
+        observed the hard-boiled egg. Finally, he asked her to sip the coffee. Its rich aroma brought a smile to her face. “Father, what does this mean?” she asked.
+        He then explained that the potatoes, the eggs and coffee beans had each faced the same adversity-the boiling water. However, each one reacted
+        differently. The potato went in strong, hard and unrelenting, but in boiling water, it became soft and weak. The egg was fragile, with the thin outer
+        shell protecting its liquid interior until it was put in the boiling water. Then the inside of the egg became hard. However, the ground coffee beans were
+        unique. After they were exposed to the boiling water, they changed the water and created something new.
+    </string>
+
+
+    <!-- story nine-->
+    <string name="nine_description_1">An old man lived in the village. He was one of the most unfortunate people in the world. The whole village was tired of
+        him; he was always gloomy, he constantly complained and was always in a bad mood. The longer he lived, the more bile he was becoming and the more
+        poisonous were his words. People avoided him, because his misfortune became contagious. It was even unnatural and insulting to be happy next to
+        him. He created the feeling of unhappiness in others.  But one day, when he turned eighty years old, an incredible thing happened. Instantly
+        everyone started hearing the rumour: “An Old Man is happy today, he doesn’t complain about anything, smiles, and even his face is freshened up.” The
+        whole village gathered together. The old man was asked:Villager: What happened to you?“Nothing special. Eighty years I’ve been chasing happiness, and
+        it was useless. And then I decided to live without happiness and just enjoy life. That’s why I’m happy now.
+    </string>
+
+
+    <!-- story ten-->
+    <string name="ten_description_1">A speaker started off his seminar by showing a $20 to the public. He asked the people “who wants this?” There was no surprise
+        to see that all of them lifted their hands. He offered to give the money to one of them but insisted that he will do something to it. He crumpled the
+        paper money and showed it again to the crowd and repeated the question. Still, everyone raised the hands. He then put the money into the ground and
+        stepped on it and then raised it again and offered it to the public. The people gathered there still showed interest to take that money despite seeing
+        how dirty the note was. He told the public” No matter what I did to this money, you all still wanted this. You all went in favor of my offer just because
+        the value of the money never decreased despite what all I did to it. Similarly, value yourself despite the painful conditions or failures” Moral: Believe
+        in yourself and work hard to achieve success. Value yourself irrespective of the failures or obstacles and don’t degrade yourself just because of the
+        temporary setbacks.
+    </string>
+
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#158440</color>
+    <color name="colorPrimaryDark">#414549</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tan_background">#fff7da</color>
+
+    <!-- Background color for the story one category -->
+    <color name="category_story_one">#57A4F2</color>
+    <!-- Background color for the story two category -->
+    <color name="category_story_two">#3A8FE3</color>
+    <!-- Background color for the story five category -->
+    <color name="category_story_three">#2B81D8</color>
+    <!-- Background color for the story six category -->
+    <color name="category_story_four">#1E6FC0</color>
+    <!-- Background color for the story three category -->
+    <color name="category_story_five">#155DA5</color>
+    <!-- Background color for the story six category -->
+    <color name="category_story_six">#145697</color>
+    <!-- Background color for the story seven category -->
+    <color name="category_story_seven">#12508F</color>
+    <!-- Background color for the story eight category -->
+    <color name="category_story_eight">#0E4175</color>
+    <!-- Background color for the story nine category -->
+    <color name="category_story_nine">#0A3560</color>
+    <!-- Background color for the story ten category -->
+    <color name="category_story_ten">#06284A</color>
+    <!-- Background color for the story extra category -->
+    <color name="category_story_extra">#031D37</color>
+
+</resources>
